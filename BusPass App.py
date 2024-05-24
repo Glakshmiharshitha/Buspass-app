@@ -1,14 +1,4 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 pip install kivy
-
-
-# In[1]:
-
 
 from kivy.app import App
 from kivy.uix.boxlayout import BoxLayout
